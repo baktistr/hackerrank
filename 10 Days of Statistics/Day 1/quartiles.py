@@ -19,6 +19,4 @@ else:
 print(median(len(data_low), data_low))
 print(median(size, numbers))
 print(median(len(data_high), data_high))
-#print(numbers)
-#print(data_low)
-#print(data_high)
+
