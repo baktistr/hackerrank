@@ -26,8 +26,5 @@ else:
 
 q1 = median(len(data_low), data_low)
 q3 = median(len(data_high), data_high)
-print(data_low)
-print(data_high)
-print(q1)
-print(q3)
+
 print(q3-q1)
