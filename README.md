@@ -7,11 +7,12 @@
 </div>
 
 
-this is the repository of my personal attemps on hackerrank challenge.
+This is the repository of my personal attemps on hackerrank challenge. Coded Mostly in Python
 
 
 ## index list 
-| Challenge                 | Difficulty        | Status    |
-|  -------                  | --------------    | -----     |
-| 10 Days of statistics     |  Easy             | On Going  |
-
+| Challenge                 | Difficulty        | Status        |
+|  -------                  | --------------    | -----         |
+| 10 Days of statistics     | Easy              | On Going      |
+| 30 Days of Codes          | Easy - Medium     | On Going      |
+| Interview Preparation Kit | Easy - Advance    | Not Started   |
