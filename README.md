@@ -5,7 +5,7 @@
   <img width="400px" src="https://blog.hackerrank.com/wp-content/uploads/2018/08/hackerrank_logo.png" />
   </a>
 </div>
-
+<br>
 
 This is the repository of my personal attemps on hackerrank challenge. Coded Mostly in Python 3
 
