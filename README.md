@@ -7,7 +7,7 @@
 </div>
 
 
-This is the repository of my personal attemps on hackerrank challenge. Coded Mostly in Python
+This is the repository of my personal attemps on hackerrank challenge. Coded Mostly in Python 3
 
 
 ## index list 
