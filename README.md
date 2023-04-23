@@ -13,6 +13,8 @@ This is the repository of my personal attemps on hackerrank challenge. Coded Mos
 ## index list 
 | Challenge                 | Difficulty        | Status        |
 |  -------                  | --------------    | -----         |
-| 10 Days of statistics     | Easy              | On Going      |
-| 30 Days of Codes          | Easy - Medium     | On Going      |
-| Interview Preparation Kit | Easy - Advance    | Not Started   |
+| 10 Days of statistics     | Easy              | Done          |
+| 30 Days of Codes          | Easy - Medium     | Pending       |
+| C++                       | Easy - Hard       | On Going      |
+| Python                    | Easy - Hard       | On Going      |
+| Interview Preparation Kit | Easy - Hard       | Not Started   |
